@@ -1,3 +1,3 @@
-# Learning Logs — Personal Learning Blog
+# Learning Logs
 
 
