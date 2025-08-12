@@ -1,3 +1,3 @@
-# Learning Logs
+# Trailwise
 
 
